@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jax-ws-service-api" />
+        <module name="jax-ws-service-implementation" />
+        <module name="jax-ws-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="jax-ws-client" target="8" />
+      <module name="jax-ws-service-api" target="8" />
+      <module name="jax-ws-service-implementation" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

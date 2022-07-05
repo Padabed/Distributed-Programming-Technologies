@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/jaxws-rt-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/jaxb-impl-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/jaxb-xjc-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/jaxws-tools-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/stax-ex-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/javax.jws-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/jaxws-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/policy-2.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/streambuffer-1.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jax-ws-client/lib/jaxb-api-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

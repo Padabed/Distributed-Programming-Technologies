@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4"
+         xmlns="http://java.sun.com/xml/ns/j2ee">
+    <listener>
+        <listener-class>listeners.ContextListener</listener-class>
+    </listener>
+    <listener>
+        <listener-class>listeners.RequestListener</listener-class>
+    </listener>
+    <servlet>
+        <servlet-name>Msg</servlet-name>
+        <servlet-class>Msg</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Msg</servlet-name>
+        <url-pattern>/msg.servlet</url-pattern>
+    </servlet-mapping>
+</web-app>
